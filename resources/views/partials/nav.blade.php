@@ -1,4 +1,4 @@
-<nav class="main-nav">
+<nav class="main-nav fadeInDown">
 	<ul class="nav-links">
 		<li>
 			<a href="/" class="nav-link{{ current_uri_is('/') }}">Home</a>

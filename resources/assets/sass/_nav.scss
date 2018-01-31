@@ -5,6 +5,9 @@ nav.main-nav {
 	height: 100px;
 	position: fixed;
 	background: $nav-bg-gradient $nav-bg;
+	animation-delay: .1s;
+	animation-fill-mode: both;
+	animation-duration: .8s;
 
 	.nav-links {
 		display: flex;
@@ -75,7 +78,7 @@ nav.main-nav {
 					padding: 28px 35px;
 					background: $nav-dropdown-bg;
 					border-radius: 25px;
-					box-shadow: 0 5px 50px rgba(0, 0, 0, .22);
+					box-shadow: 0 5px 50px rgba(0, 0, 0, .3);
 					transition: opacity .3s ease-in-out;
 					will-change: opacity;
 					z-index: 10;
