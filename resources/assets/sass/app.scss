@@ -1,9 +1,21 @@
-
 // Fonts
-@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+@import url("https://fonts.googleapis.com/css?family=Nunito:400,600,700,800");
 
 // Variables
 @import "variables";
 
-// Bootstrap
-@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+// Normalize & reset
+@import "reset";
+@import "normalize";
+
+// Icons
+@import "icons";
+
+// Navigation
+@import "nav";
+// Header
+@import "header";
+// Main content
+@import "main";
+// Footer
+@import "footer";

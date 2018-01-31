@@ -1,0 +1,15 @@
+//$icons: (about-me, activity-history, book, books, change, change-theme, facebook, info, kid, knowledge-sharing, social-group, spreadsheet, support, tips, twitter, wise-mind);
+
+// Icons
+svg.icon {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	background-size: cover;
+
+	//@each $icon in $icons {
+	//	&[#{$icon}] {
+	//		background-image: url("/svgs/#{$icon}.svg");
+	//	}
+	//}
+}

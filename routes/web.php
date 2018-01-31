@@ -11,6 +11,4 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('{uri1?}/{uri2?}', 'PagesController@showPage');

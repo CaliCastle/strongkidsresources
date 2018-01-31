@@ -1,0 +1,142 @@
+nav.main-nav {
+	top: 0;
+	z-index: 9;
+	width: 100vw;
+	height: 100px;
+	position: fixed;
+	background: $nav-bg-gradient $nav-bg;
+
+	.nav-links {
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		align-items: center;
+		height: 100%;
+
+		> li {
+			position: relative;
+			perspective: 1500px;
+		}
+
+		.nav-link {
+			position: relative;
+			padding: 10px 20px;
+			margin: 0 2px;
+			color: $nav-text-color;
+			text-decoration: none;
+			font-size: 17px;
+			font-weight: 800;
+			border-radius: 25px;
+			background: transparent;
+			transition: background .28s ease-in-out, color .3s ease;
+			display: block;
+			will-change: background, color;
+
+			&:hover {
+				background: $brand-primary;
+				color: $brand-dark-blue;
+				box-shadow: 0 1px 35px rgba(0, 0, 0, .1);
+			}
+
+			&.current {
+				background: $nav-button-gradient transparent !important;
+				box-shadow: 0 1px 35px rgba(0, 0, 0, .1);
+				color: $nav-text-color !important;
+			}
+
+			&.has-dropdown {
+				&:after {
+					content: '▾';
+					display: inline-block;
+					margin-left: 6px;
+					font-size: 14px;
+				}
+			}
+
+			& + .nav-dropdown-wrapper {
+				position: absolute;
+				padding-top: 50px;
+				width: 100%;
+				height: 100%;
+				pointer-events: none;
+				transform: rotateX(-35deg);
+				transform-origin: 50% 0;
+				transition: transform .25s ease-in-out;
+				will-change: transform;
+
+				.nav-dropdown {
+					opacity: 0;
+					pointer-events: none;
+					position: absolute;
+					top: 45px;
+					left: 50%;
+					width: 270px;
+					margin-left: calc(-340px / 2);
+					padding: 28px 35px;
+					background: $nav-dropdown-bg;
+					border-radius: 25px;
+					box-shadow: 0 5px 50px rgba(0, 0, 0, .22);
+					transition: opacity .3s ease-in-out;
+					will-change: opacity;
+					z-index: 10;
+
+					// Arrow
+					&:before {
+						content: '';
+						display: block;
+						position: absolute;
+						top: -8px;
+						left: 50%;
+						margin: 0 0 0 -8px;
+						width: 16px;
+						height: 16px;
+						transform: rotate(43deg);
+						border-radius: 4px 0 0 0;
+						background: #fff;
+						box-shadow: -3px -3px 5px rgba(82, 95, 127, .04);
+					}
+
+					> li {
+						padding: 0;
+						margin: 0 0 2px 0;
+
+						&:last-of-type {
+							margin-bottom: 0;
+						}
+					}
+
+					a {
+						color: $nav-dropdown-text-color;
+						font-size: 16px;
+						font-weight: 700;
+						text-decoration: none;
+						display: flex;
+						justify-content: flex-start;
+						align-items: center;
+						padding: 6px 0;
+
+						svg.icon, svg.icon path {
+							width: 25px;
+							height: 25px;
+							margin-right: 10px;
+							fill: currentColor;
+							fill: $nav-dropdown-text-color;
+						}
+					}
+				}
+			}
+		}
+
+		> li:hover {
+			> .nav-link + .nav-dropdown-wrapper {
+				pointer-events: all;
+				transform: rotateX(0);
+
+				.nav-dropdown {
+					opacity: 1;
+					pointer-events: all;
+				}
+			}
+		}
+	}
+}
