@@ -39,6 +39,10 @@
 	</header>
 
 	<main class="content">
+		@if(request()->getRequestUri() != "/")
+			<h2 class="title">@yield('title')</h2>
+		@endif
+
 		@yield('content')
 	</main>
 
