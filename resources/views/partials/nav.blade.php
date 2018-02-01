@@ -20,7 +20,7 @@
 						</a>
 					</li>
 					<li>
-						<a href="/about/history" class="nav-dropdown-link">
+						<a href="/about/dr-merrell" class="nav-dropdown-link">
 							<svg class="icon"><use xlink:href="#about-me" width="25" height="25"></use></svg>
 							Dr. Kenneth Merrell
 						</a>
@@ -58,7 +58,7 @@
 			<div class="nav-dropdown-wrapper">
 				<ul class="nav-dropdown">
 					<li>
-						<a href="/research/mindful">
+						<a href="/research/mindfulness">
 							<svg class="icon"><use xlink:href="#mind" width="25" height="25"></use></svg>
 							Mindful Research
 						</a>
@@ -146,9 +146,9 @@
 		<li>
 			<a href="/faq" class="nav-link{{ current_uri_is('faq') }}">FAQs</a>
 		</li>
-		<li>
-			<a href="/support" class="nav-link{{ current_uri_is('support') }}">Training &amp; Support</a>
-		</li>
+		{{--<li>--}}
+			{{--<a href="/training" class="nav-link{{ current_uri_is('training') }}">Training &amp; Support</a>--}}
+		{{--</li>--}}
 		<li>
 			<a href="/contact" class="nav-link{{ current_uri_is('contact') }}">Contact Us</a>
 		</li>
