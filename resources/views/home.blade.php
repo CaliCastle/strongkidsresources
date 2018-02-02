@@ -5,6 +5,7 @@
 		<div class="center margin-v">
 			<img src="/images/home-books.png" alt="Books" style="max-width: 550px;">
 		</div>
+		
 		<p class="center margin-v">
 			We have made some exciting and progressive changes to the Strong Kids programs in light of recent advances
 			in research, theory, and science of implementation in the field of social and emotional learning "SEL".
