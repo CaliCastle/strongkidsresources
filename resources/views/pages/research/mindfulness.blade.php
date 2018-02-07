@@ -1,6 +1,6 @@
 @extends('partials.base')
 
-@section('title', 'Mindfulness Research')
+@section('title', 'Mindfulness')
 
 @section('content')
 	<div class="container-large">
@@ -71,47 +71,76 @@
 		</p>
 		<div class="margin-v">
 			<h2 class="heading-2">References</h2>
-			<p class="hanging-indent">Association for Mindfulness in Education (AME): A collaborative associa¬tion of
-				organizations and individuals working together to provide support for mindfulness training as a
-				component of K–12 education; <a
-						href="http://www.mindfuleducation.org">http://www.mindfuleducation.org</a> /&gt;</p>
-			<p class="hanging-indent">Broderick, P.C., &amp; Metz, S. (2009). Learning to BREATHE: A pilot trial of a
-				mindfulness curriculum for adolescents. Advances in School Mental Health Promotion, 2, 35-46.</p>
-			<p class="hanging-indent">Burke, C. A. (2010). Mindfulness-based approaches with children and adolescents: A
-				preliminary review of current research in an emergent field. Journal of Child and Family Studies, 19(2),
-				133-144. doi: 10.1007/s10826-009-9282-x</p>
-			<p class="hanging-indent">Flook, L., Goldberg, S. B., Pinger, L., Bonus, K., &amp; Davidson, R. J. (2013).
-				Mindfulness for Teachers: A Pilot Study to Assess Effects on Stress, Burnout, and Teaching Efficacy.
-				Mind, Brain, and Education, 7, 182–195. doi: 10.1111/mbe.12026</p>
-			<p class="hanging-indent">Kabat-Zinn, J. (2013). Full catastrophe living. (Revised Edition). New York, NY:
-				Bantam.</p>
-			<p class="hanging-indent">Garrison Institute’s Initiative on Contemplation and Education: Working to develop
-				the field of contemplative education for K–12 educators and class¬rooms; <a
-						href="https://www.garrisoninstitute.org">https://www.garrisoninstitute.org</a></p>
-			<p class="hanging-indent">Gueldner, B. A. &amp; Feuerborn, L. L. (2015). Bridging mindfulness-based practices
-				with social and emotional learning: A conceptual review and application. Mindfulness. Advance online
-				publication. doi: 10.1007/s12671-015-0423-6</p>
-			<p class="hanging-indent">Harnett, P. H., &amp; Dawe, S. (2012). The contribution of mindfulness‐based
-				therapies for children and families and proposed conceptual integration. Child and adolescent mental
-				health, 17(4), 195-208. doi: 10.1111/j.1475-3588.2011.00643.x</p>
-			<p class="hanging-indent">Kabat-Zinn, J. (1990). Full catastrophe living: Using the wisdom of your body and
-				mind to face stress, pain, and illness. New York, NY: Delta.</p>
-			<p class="hanging-indent">Marchand, W. R. (2012). Mindfulness-based stress reduction, mindfulness-based
-				cognitive therapy, and Zen meditation for depression, anxiety, pain, and psychological distress. Journal
-				of Psychiatric Practice®, 18(4), 233-252.</p>
-			<p class="hanging-indent">Meiklejohn, J., Phillips, C., Freedman, M. L., Griffin, M. L., Biegel, G., Roach,
-				A., ... &amp; Saltzman, A. (2012). Integrating mindfulness training into K-12 education: Fostering the
-				resilience of teachers and students. Mindfulness, 3(4), 291-307. doi: 10.1007/s12671-012-0094-5</p>
-			<p class="hanging-indent">Mindfulness-Based Stress Reduction (MBSR) and the Center for Mindfulness at UMASS
-				Medical School; <a href="http://www.umassmed.edu/cfm/">http://www.umassmed.edu/cfm/</a></p>
-			<p class="hanging-indent">Rosenzweig, S., Greeson, J. M., Reibel, D. K., Green, J. S., Jasser, S. A., &amp;
-				Beasley, D. (2010). Mindfulness-based stress reduction for chronic pain conditions: variation in
-				treatment outcomes and role of home meditation practice. Journal of psychosomatic research, 68(1),
-				29-36.</p>
-			<p class="hanging-indent">Zenner, C., Herrnleben-Kurz, S., &amp; Walach, H. (2014). Mindfulness-based
-				interventions in schools—a systematic review and meta-analysis. Frontiers in psychology, 5. <a
-						href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4075476/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4075476/</a>
-				. accessed 01 march 2015.</p>
+			<p class="hanging-indent">
+				Beauchemin, J., Hutchins, T. L., & Patterson, F. (2008). Mindfulness meditation may lessen anxiety,
+				promote
+				social skills, and improve academic performance among adolescents with learning disabilities. <em>Complementary
+					Health Practice Review, 13</em>(1), 34-45. <a href="https://doi.org/10.1177/1533210107311624"
+				                                                  target="_blank">https://doi.org/10.1177/1533210107311624</a>
+			</p>
+			<br>
+			<p class="hanging-indent">
+				Bishop, S. R., Lau, M., Shapiro, S., Carlson, L., Anderson, N. D., Carmody, J.,… & Devins, G. (2004).
+				Mindfulness: A proposed operational definition. <em>Clinical Psychology: Science and Practice, 11</em>(3),
+				230-241. doi: 10.1093/clipsy.bph077
+			</p>
+			<br>
+			<p class="hanging-indent">
+				Burke, C. A. (2010). Mindfulness-based approaches with children and adolescents: A preliminary review of
+				current research in an emergent field. <em>Journal of Child and Family Studies, 19</em>(2), 133-144.
+				doi:
+				10.1007/s10826-009-9282-x.
+			</p>
+			<br>
+			<p class="hanging-indent">
+				Flook, L., Goldberg, S. B., Pinger, L., Bonus, K., & Davidson, R. J. (2013). Mindfulness for Teachers: A
+				Pilot Study to Assess Effects on Stress, Burnout, and Teaching Efficacy. <em>Mind, Brain, and Education,
+					7</em>,
+				182–195. doi: 10.1111/mbe.12026.
+			</p>
+			<br>
+			<p class="hanging-indent">
+				Kabat-Zinn, J. (2013). <em>Full catastrophe living</em>. (Revised Edition). New York, NY: Bantam.
+			</p>
+			<br>
+			<p class="hanging-indent">
+				Gueldner, B. A. & Feuerborn, L. L. (2016). Bridging mindfulness-based practices with social and emotional
+				learning: A conceptual review and application. <em>Mindfulness, 7</em>(1), 164-175. doi: 10.1007/s12671-015-0423-6
+			</p>
+			<br>
+			<p class="hanging-indent">
+				Greenberg, M. T., & Harris, A. R. (2011). Nurturing mindfulness in children and youth: Current state of
+				research. <em>Child Development Perspectives, 6</em>, 161–166. doi: 10.1111/j.1750-8606.2011.00215.x
+			</p>
+			<br>
+			<p class="hanging-indent">
+				Harnett, P. H., & Dawe, S. (2012). The contribution of mindfulness‐based therapies for children and families
+				and proposed conceptual integration. <em>Child and adolescent mental health, 17</em>(4), 195-208. doi:
+				10.1111/j.1475-3588.2011.00643.x
+			</p>
+			<br>
+			<p class="hanging-indent">
+				Marchand, W. R. (2012). Mindfulness-based stress reduction, mindfulness-based cognitive therapy, and Zen
+				meditation for depression, anxiety, pain, and psychological distress. <em>Journal of Psychiatric Practice,
+					18</em>(4), 233-252. doi: 10.1097/01.pra.0000416014.53215.86
+			</p>
+			<br>
+			<p class="hanging-indent">
+				Maynard, B. R., Solis, M., Miller, V., & Brendel, K. E. (2017). Mindfulness-based interventions for
+				improving cognition, academic achievement, behavior and socio-emotional functioning of primary and secondary
+				students. <em>Campbell Systematic Reviews</em>, 5. 10.4073/csr.2017.5
+			</p>
+			<br>
+			<p class="hanging-indent">
+				Meiklejohn, J., Phillips, C., Freedman, M. L., Griffin, M. L., Biegel, G., Roach, A., ... & Saltzman, A.
+				(2012). Integrating mindfulness training into K-12 education: Fostering the resilience of teachers and
+				students. <em>Mindfulness, 3</em>(4), 291-307. doi: 10.1007/s12671-012-0094-5.
+			</p>
+			<br>
+			<p class="hanging-indent">
+				Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools—a
+				systematic review and meta-analysis. <em>Frontiers in psychology, 5</em>. <a href="https://doi.org/10.3389/fpsyg.2014.00603" target="_blank">https://doi.org/10.3389/fpsyg.2014.00603</a>
+			</p>
 		</div>
 	</div>
 @stop

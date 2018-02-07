@@ -15,14 +15,14 @@
 				</div>
 				<div class="author__info">
 					<p>
-						<b>Dianna Carrizales-Engelmann, Ph.D.</b> is currently an instructor at the University of Oregon
-						specializing in performance assessment for teacher preparation. Over the course of her 16 years
-						in the field of education, Dianna has maintained a consistent focus in the development,
-						research, and trouble-shooting of educational assessments. Dianna’s assessment development
-						experience includes state assessments, nationally standardized assessments, and classroom and
-						curriculum based assessments. In addition to her role in the field of educational assessment,
-						Dianna has had several years of policy-related experience related to education and assessment at
-						the Oregon Department of Education. Dianna is founder of DCE Educational Communications LLC.
+						<b>Dianna Carrizales-Engelmann, Ph.D.</b> is currently a lecturer at the University of Oregon,
+						specializing in performance assessment for teacher preparation. Over the course of her time in
+						the field of education, Dianna has maintained a consistent focus in the development, research,
+						and trouble-shooting of educational assessment. Dianna’s assessment development experience
+						includes state assessments, nationally standardized assessments of achievement, and classroom
+						and curriculum based assessments. In addition to her role in the field of educational
+						assessment, Dianna has had several years of policy-related experience related to education and
+						assessment at the Oregon Department of Education.
 					</p>
 					<ul class="margin-v circle">
 						<li>
@@ -50,7 +50,7 @@
 			</div>
 			<div class="author">
 				<div class="author__avatar">
-					<img src="/images/authors/Feuerborn.jpg" alt="Feuerborn">
+					<img src="/images/authors/Laura.jpg" alt="Feuerborn">
 				</div>
 				<div class="author__name">
 					<b>Laura L. Feuerborn, PhD, NCSP</b>
@@ -102,19 +102,21 @@
 				</div>
 				<div class="author__info">
 					<p>
-						<b>Barbara Gueldner, PhD, MSE, NCSP</b> is a licensed psychologist who specializes in working
-						with children, families, and community agencies. Her training and work experiences have focused
-						on the assessment, prevention, and treatment of social, emotional, behavioral, academic, and
-						developmental problems. She has worked across several community settings including public and
-						private schools, a university-based child and family clinic, two major pediatric primary care
-						clinics, inpatient medical and psychiatric clinics at Children’s Hospital Colorado, and served
-						as visiting assistant professor at the University of Oregon. Dr. Gueldner has a private practice
-						in Steamboat Springs, Colorado, where she works with youth and their parents, collaborates with
-						educators and medical professionals, and is actively involved in volunteer service. Her
-						research, publications, and workshops focus on social and emotional learning, childhood mental
-						health and prevention, and working with adults to facilitate children’s emotional development.
-						In addition to the Strong Kids and Strong Teens curriculum, she is the co-author of the book,
-						Social and Emotional Learning in the Classroom.
+						<b>Barbara Gueldner, PhD, MSE, NCSP</b> is a licensed psychologist in Colorado who specializes
+						in working with children, families, and community agencies. Throughout the course of her career,
+						she has focused on finding, developing, and facilitating effective ways to promote children’s
+						development and well-being. Dr. Gueldner has worked in several community settings including
+						public and private schools, a university-based clinic, two large pediatric primary care clinics,
+						inpatient medical and psychiatric clinics at Children’s Hospital Colorado, and private practice,
+						and served as visiting assistant professor at the University of Oregon. She consults with
+						community agencies who work with children and teaches parenting classes related to Emotion
+						Coaching. Her research, publications, and workshops focus on social and emotional learning,
+						childhood mental health and prevention, internalizing problems, school-based interventions, SEL,
+						and ways adults can facilitate children’s emotional development. In addition to <em>Merrell’s
+							Strong
+							Kids</em> and <em>Strong Teens</em> curriculum, she is co-author of the book, <em>Social and
+							Emotional Learning in
+							the Classroom</em>.
 					</p>
 					<ul class="circle margin-v">
 						<li>PhD School Psychology, University of Oregon, 2007</li>

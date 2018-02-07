@@ -60,19 +60,19 @@
 					<li>
 						<a href="/research/mindfulness">
 							<svg class="icon"><use xlink:href="#mind" width="25" height="25"></use></svg>
-							Mindful Research
+							Mindfulness
 						</a>
 					</li>
 					<li>
 						<a href="/research/social">
 							<svg class="icon"><use xlink:href="#group" width="25" height="25"></use></svg>
-							Social Emotional Research
+							Social and Emotional Learning
 						</a>
 					</li>
 					<li>
 						<a href="/research/strong-kids">
 							<svg class="icon"><use xlink:href="#kid" width="25" height="25"></use></svg>
-							Strong Kids Program Research
+							Strong Kids Program
 						</a>
 					</li>
 				</ul>
