@@ -5,7 +5,7 @@
 @section('content')
 	<div class="container">
 		<p class="margin-v center">
-			<a href="/Files/Strong Kids Parent Letter.docx">Download in Microsoft Word (.docx) format</a>
+			<a href="files/letter.docx" download="Strong Kids Parent Letter.docx">Download in Microsoft Word (.docx) format</a>
 		</p>
 
 		<p>Date</p>
