@@ -224,6 +224,8 @@ nav.side-nav {
 	-webkit-overflow-scrolling: touch;
 	z-index: 0;
 	display: none;
+	pointer-events: none;
+	visibility: hidden;
 }
 
 .slideout-menu-left {
@@ -250,6 +252,8 @@ nav.side-nav {
 
 .slideout-open .slideout-menu {
 	display: block;
+	pointer-events: all;
+	visibility: visible;
 }
 
 @media screen and (max-width: 900px) {

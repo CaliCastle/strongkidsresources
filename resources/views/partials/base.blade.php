@@ -20,7 +20,7 @@
 
 	<!-- Styles -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css">
-	<link rel="stylesheet" href="{{ asset('css/app.css') }}?v=2">
+	<link rel="stylesheet" href="{{ asset('css/app.css') }}?v=3">
 
 	<!-- Start of Async Drift Code -->
 	<script async>
