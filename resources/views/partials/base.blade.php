@@ -23,7 +23,7 @@
 	<link rel="stylesheet" href="{{ asset('css/app.css') }}">
 
 	<!-- Start of Async Drift Code -->
-	<script>
+	<script async>
         !function() {
             var t;
             if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0,
@@ -50,50 +50,58 @@
 <body>
 	@include('partials.nav')
 
-	<header class="header">
-		<div class="carousel" data-width="100%" data-ratio="8/3" data-fit="cover" data-loop="true" data-autoplay="true" data-trackpad="true" data-keyboard="true">
-			@for($i = 1; $i <= 3; $i++)
-				<img src="/images/bg{{ $i }}.jpg" alt="Background Image">
-			@endfor
-		</div>
-		<div class="logo bounceInUp">
-			<img src="/images/Logo.png" alt="Logo">
-		</div>
-	</header>
+	<div id="app">
+		<header class="header">
+			<div class="carousel" data-width="100%" data-ratio="2/1" data-fit="cover" data-loop="true" data-autoplay="true" data-trackpad="true" data-keyboard="true">
+				<img src="/images/bg3.jpg" alt="Background Image">
+				<img src="/images/anna-samoylova-535880.jpg" alt="Background Image">
+				<img src="/images/nathaniel-tetteh-300252.jpg" alt="Background Image">
+			</div>
+			<div class="logo bounceInUp">
+				<img src="/images/Logo.png" alt="Logo">
+			</div>
+		</header>
 
-	<main class="content">
-		@if(request()->getRequestUri() != "/")
-			<h2 class="title">@yield('title')</h2>
-		@endif
+		<main class="content">
+			@if(request()->getRequestUri() != "/")
+				<h2 class="title">@yield('title')</h2>
+			@endif
 
-		@yield('content')
-	</main>
+			@yield('content')
+		</main>
 
-	<footer class="footer">
-		<div class="publishers">
-			<a target="_blank" href="http://www.casel.org/">
-				<img src="/images/Casel.png" alt="Casel">
-			</a>
-			<a target="_blank" href="http://www.brookespublishing.com/">
-				<img src="/images/Brookes.png" alt="Brookes">
-			</a>
-		</div>
-		<div class="social">
-			<a target="_blank" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fstrongkidsresources.com%2F&ref_src=twsrc%5Etfw&text=Check%20out%20Strong%20Kids%20Resources&tw_p=tweetbutton&url=http%3A%2F%2Fstrongkidsresources.com%2F">
-				<svg class="twitter">
-					<use xlink:href="#twitter"></use>
-				</svg>
-			</a>
-			<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fstrongkidsresources.com%2F&display=popup&ref=plugin&src=like&kid_directed_site=0&app_id=312342178864243">
-				<svg class="facebook">
-					<use xlink:href="#facebook"></use>
-				</svg>
-			</a>
-		</div>
-		<div class="copyright">
-			<p>Copyright &copy; Merrell's Strong Kids {{ date('Y') }}</p>
-		</div>
-	</footer>
+		<footer class="footer">
+			<div class="publishers">
+				<a target="_blank" href="http://www.casel.org/">
+					<img src="/images/Casel.png" alt="Casel">
+				</a>
+				<a target="_blank" href="http://www.brookespublishing.com/">
+					<img src="/images/Brookes.png" alt="Brookes">
+				</a>
+			</div>
+			<div class="social">
+				<a target="_blank" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fstrongkidsresources.com%2F&ref_src=twsrc%5Etfw&text=Check%20out%20Strong%20Kids%20Resources&tw_p=tweetbutton&url=http%3A%2F%2Fstrongkidsresources.com%2F">
+					<svg class="twitter">
+						<use xlink:href="#twitter"></use>
+					</svg>
+				</a>
+				<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fstrongkidsresources.com%2F&display=popup&ref=plugin&src=like&kid_directed_site=0&app_id=312342178864243">
+					<svg class="facebook">
+						<use xlink:href="#facebook"></use>
+					</svg>
+				</a>
+			</div>
+			<div class="copyright">
+				<p>Copyright &copy; Merrell's Strong Kids {{ date('Y') }}</p>
+			</div>
+			<div class="photos">
+				<p>Photos by Anna Samoylova & Nathaniel Tetteh on Unsplash</p>
+			</div>
+			<div class="developer">
+				<p>Website Designed &amp; Developed by <a href="https://calicastle.com">Cali Castle</a>.</p>
+			</div>
+		</footer>
+	</div>
 
 	<div class="svgs hidden" hidden>
 		{!! file_get_contents(public_path('svgs/about-me.svg')) !!}
@@ -117,10 +125,24 @@
 
 	<script src="{{ asset('js/app.js') }}"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/slideout/1.0.1/slideout.min.js"></script>
 
 	<script>
         $(document).ready(function(){
 			$('.carousel').fotorama();
+        });
+
+        var slideout = new Slideout({
+            'panel': document.getElementById('app'),
+            'menu': document.getElementById('side-menu'),
+            'padding': 280,
+            'tolerance': 70
+        });
+
+        // Toggle button
+        document.querySelector('.side-nav-toggle').addEventListener('click', function() {
+            slideout.toggle();
+            this.classList.toggle("open");
         });
 	</script>
 </body>

@@ -51,4 +51,20 @@
 		padding: 60px 0 0;
 		font-size: 16px;
 	}
+
+	.photos {
+		padding: 30px 0 0;
+		font-size: 17px;
+	}
+
+	.developer {
+		padding: 40px 0 0;
+		font-size: 15px;
+
+		a {
+			text-decoration: none;
+			font-weight: bold;
+			color: $brand-dark-blue;
+		}
+	}
 }

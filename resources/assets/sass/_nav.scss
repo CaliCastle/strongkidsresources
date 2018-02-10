@@ -2,13 +2,16 @@ nav.main-nav {
 	top: 0;
 	z-index: 9;
 	width: 100vw;
-	height: 100px;
+	min-height: 100px;
 	position: fixed;
 	background: $nav-bg-gradient $nav-bg;
 	animation-delay: .1s;
 	animation-fill-mode: both;
 	animation-duration: .8s;
 	box-shadow: 0 2px 50px rgba(0, 0, 0, .2);
+	display: flex;
+	justify-content: center;
+	align-items: center;
 
 	.nav-links {
 		display: flex;
@@ -142,5 +145,123 @@ nav.main-nav {
 				}
 			}
 		}
+	}
+}
+
+.side-nav-toggle {
+	display: none;
+	position: fixed;
+	left: 20px;
+	top: 10px;
+	color: #fff;
+	width: 56px;
+	height: 56px;
+	z-index: 100;
+	border: none;
+	background: linear-gradient(to right top, $brand-primary, $brand-dark-blue);
+	border-radius: 50%;
+	font-size: 20px;
+	outline: none;
+	cursor: pointer;
+	box-shadow: 0 1px 25px rgba(0, 0, 0, .25);
+	overflow: hidden;
+	will-change: left;
+	transition: left .3s ease;
+
+	&.open {
+		left: calc(20px + 280px);
+	}
+}
+
+nav.side-nav {
+	display: none;
+	background: $nav-bg-gradient $nav-bg;
+
+	a {
+		color: #fff;
+		text-decoration: none;
+		font-size: 15px;
+		font-weight: 700;
+		line-height: 25px;
+
+		&.nav-link {
+			font-size: 18px;
+		}
+
+		&.has-dropdown {
+			color: rgba(#fff, .6);
+		}
+
+		svg {
+			display: none;
+		}
+	}
+
+	.nav-links {
+		padding: 20px 0 35px 25px;
+
+		> li {
+			margin: 20px 0;
+		}
+
+		.nav-dropdown {
+			margin-left: 20px;
+
+			li {
+				margin: 5px 0;
+			}
+		}
+	}
+}
+
+.slideout-menu {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	width: 280px;
+	min-height: 100vh;
+	overflow-y: scroll;
+	-webkit-overflow-scrolling: touch;
+	z-index: 0;
+	display: none;
+}
+
+.slideout-menu-left {
+	left: 0;
+}
+
+.slideout-menu-right {
+	right: 0;
+}
+
+.slideout-panel {
+	position: relative;
+	z-index: 1;
+	will-change: transform;
+	background-color: #FFF; /* A background-color is required */
+	min-height: 100vh;
+}
+
+.slideout-open,
+.slideout-open body,
+.slideout-open .slideout-panel {
+	overflow: hidden;
+}
+
+.slideout-open .slideout-menu {
+	display: block;
+}
+
+@media screen and (max-width: 900px) {
+	nav.main-nav {
+		display: none;
+	}
+
+	nav.side-nav, .side-nav-toggle {
+		display: block;
+	}
+
+	header {
+		margin-top: 0 !important;
 	}
 }

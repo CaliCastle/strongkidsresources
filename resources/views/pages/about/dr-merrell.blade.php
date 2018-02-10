@@ -76,5 +76,4 @@
 			with our utmost respect, humility, and gratitude.
 		</p>
 	</div>
-	</div>
 @stop
