@@ -20,11 +20,7 @@
 
 	<!-- Styles -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css">
-<<<<<<< HEAD
-	<link rel="stylesheet" href="{{ asset('css/app.css') }}?v=3">
-=======
 	<link rel="stylesheet" href="{{ asset('css/app.css') }}?v=4">
->>>>>>> Fix unscrollable issue
 
 	<!-- Start of Async Drift Code -->
 	<script async>
