@@ -23,12 +23,12 @@
 			margin: 10px 30px;
 		}
 
-		> a:first-of-type {
+		> a:first-of-type img {
 			width: 80px;
 			height: 80px;
 		}
 
-		> a:last-of-type {
+		> a:last-of-type img {
 			width: 130px;
 			height: 48px;
 		}
@@ -66,5 +66,10 @@
 			font-weight: bold;
 			color: $brand-dark-blue;
 		}
+	}
+	
+	p {
+		text-align: center;
+		line-height: 1.5;
 	}
 }

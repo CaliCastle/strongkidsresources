@@ -444,7 +444,11 @@ b, strong {
 		flex-direction: column;
 
 		.book {
-			margin-top: 120px;
+			margin: 120px 0 0;
+
+			>.book__header .book__title {
+				display: none;
+			}
 		}
 	}
 
