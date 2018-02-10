@@ -20,7 +20,7 @@
 
 	<!-- Styles -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.css">
-	<link rel="stylesheet" href="{{ asset('css/app.css') }}">
+	<link rel="stylesheet" href="{{ asset('css/app.css') }}?v=2">
 
 	<!-- Start of Async Drift Code -->
 	<script async>
@@ -123,7 +123,7 @@
 		{!! file_get_contents(public_path('svgs/wise-mind.svg')) !!}
 	</div>
 
-	<script src="{{ asset('js/app.js') }}"></script>
+	<script src="{{ asset('js/app.js') }}?v=2"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/slideout/1.0.1/slideout.min.js"></script>
 
