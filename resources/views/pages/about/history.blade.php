@@ -5,7 +5,8 @@
 @section('content')
 	<div class="container">
 		<p class="left margin-v">
-			The Strong Start, Strong Kids, and Strong Teens programs were developed under the direction of the late
+			The <em>Strong Start, Strong Kids, and Strong Teens</em> programs were developed under the direction of the
+			late
 			Kenneth W. Merrell, PhD and with the Oregon Resiliency Project (ORP) at the University of Oregon (see
 			Merrell, 2010 for more information). At the time, the literature revealed alarming trends and significant
 			challenges:
@@ -30,8 +31,8 @@
 	<div class="container">
 		<p class="left margin-v">
 			Meanwhile, an interest in applying a public health model to schools to improve students’ well-being was
-			strongly emerging. The evidence for school-based prevention programs focused on "social and emotional
-			learning" (SEL) was growing, demonstrating that schools have a role in promoting health and reducing risk
+			strongly emerging. The evidence for school-based prevention programs focused on “social and emotional
+			learning” (SEL) was growing, demonstrating that schools have a role in promoting health and reducing risk
 			(Greenberg et al, 2003). As with any development and expansion of new technology, glitches remained that
 			needed attention: staff needed initial and ongoing support, programs needed ways to be sustained over time,
 			schools had to thoughtfully consider how programs would be infused into the overall school culture and
@@ -42,7 +43,7 @@
 	</div>
 	<div class="container margin-v">
 		<p class="left margin-v">
-			Strong Kids was developed to address the following areas:
+			<b>Strong Kids was developed to address the following areas:</b>
 		</p>
 		<ul class="circle margin-v">
 			<li>Prevention and resiliency-building focus</li>
@@ -51,7 +52,6 @@
 			<li>Practical content and materials</li>
 			<li>Cost-effective</li>
 			<li>Easy to use</li>
-			Easy to use
 			<li>Content taught during the course of a typical class period</li>
 			<li>Accessible to students from pre-Kindergarten to Grade 12</li>
 			<li>Logical alignment with the goals of schools</li>
@@ -76,7 +76,7 @@
 			<li>Support available for staff development and program implementation</li>
 		</ul>
 		<p class="left margin-v">
-			Strong Kids users are encouraged to consider the following upon embarking upon implementation:
+			<b>Strong Kids users are encouraged to consider the following upon embarking upon implementation:</b>
 		</p>
 		<ul class="checkmark">
 			<li>How will the program/s fit into the school’s goals and current curricula?</li>
@@ -106,31 +106,28 @@
 		<br>
 		<p class="hanging-indent">Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D. &amp; Schellinger, K.
 			B. (2011), The impact of enhancing students’ social and emotional learning: A meta-analysis of school-based
-			universal interventions. Child Development, 82: 405–432. Retrieved from <a
-					href="http://www.wondergrovelearn.com/wp-content/uploads/2014/02/The_impact_of_-enhancing_students_social_and_emotional_learning.pdf">http://www.wondergrovelearn.com/wp-content/uploads/2014/02/The_impact_of_-enhancing_students_social_and_emotional_learning.pdf</a>
+			universal interventions. Child Development, 82: 405–432. doi:10.1111/j.1467-8624.2010.01564.x
 		</p>
 		<p class="hanging-indent">Greenberg, M. T., Weissberg, R. P., O’Brien, M. U., Zins, J. E., Fredericks, L.,
 			Resnik, H., et al. (2003). Enhancing school based prevention and youth development through coordinated
-			social, emotional, and academic learning. American Psychologist, 58, 466 – 474. Retrieved from <a
-					href="https://www.researchgate.net/profile/Mark_Greenberg2/publication/5261862_Enhancing_school-based_prevention_and_youth_development_through_coordinated_social_emotional_and_academic_learning/links/09e41509c03bf22f88000000.pdf">https://www.researchgate.net/profile/Mark_Greenberg2/publication/5261862_Enhancing_school-based_prevention_and_youth_development_through_coordinated_social_emotional_and_academic_learning/links/09e41509c03bf22f88000000.pdf</a>
+			social, emotional, and academic learning. American Psychologist, 58, 466 – 474. doi:10.1037/0003-066X.58.6-7.466
 		</p>
 		<p class="hanging-indent">Greenberg, M. T., Domitrovich, C., &amp; Bumbarger, B. (2001). The prevention of
 			mental disorders in school-aged children: Current state of the field. Prevention and Treatment, 4(1), 1a.
-			Retrieved from <a href="http://psycnet.apa.org/journals/pre/4/1/1a/">http://psycnet.apa.org/journals/pre/4/1/1a/</a>
-			accessed 13 july 2014.</p>
+			Retrieved from <a href="http://www.apa.org/pubs/journals/pre/" target="_blank">http://www.apa.org/pubs/journals/pre/</a>
+		</p>
 		<p class="hanging-indent">Hoagwood, K., &amp; Erwin, H. D. (1997). Effectiveness of school-based mental health
-			services for children: A 10-year research review. Journal of Child and Family Studies, 6(4), 435-451.</p>
+			services for children: A 10-year research review. Journal of Child and Family Studies, 6(4), 435-451. <a
+					href="https://doi.org/10.1023/A:1025045412689" target="_blank">https://doi.org/10.1023/A:1025045412689</a></p>
 		<p class="hanging-indent">Merrell, K. W. (2010). Linking prevention science and social and emotional learning:
-			The Oregon resilience project. Psychology in the Schools, 47(1), 55-70. Retrieved from <a
-					href="http://strongkids.uoregon.edu/researchPDFs/Merrell2010.pdf">http://strongkids.uoregon.edu/researchPDFs/Merrell2010.pdf</a>
+			The Oregon resilience project. Psychology in the Schools, 47(1), 55-70. doi: 10.1002/pits.20451
 		</p>
 		<p class="hanging-indent">Partnership for 21st Century Skills. (2008). 21st century skills, education, and
 			competitiveness: A resource and policy guide. Washington, DC: Author. Retrieved from <a
 					href="http://www.p21.org/storage/documents/21st_century_skills_education_and_competitiveness_guide.pdf">http://www.p21.org/storage/documents/21st_century_skills_education_and_competitiveness_guide.pdf</a>
 			accessed 15 may 2014.</p>
 		<p class="hanging-indent">Pellegrino, J. W., &amp; Hilton, M. L. (Eds.). (2013). Education for life and work:
-			Developing transferable knowledge and skills in the 21st century. National Academies Press. Retrieved from
-			<a href="http://www.leg.state.vt.us/WorkGroups/EdOp/Education%20for%20Life%20and%20Work-%20National%20Academy%20of%20Sciences.pdf">http://www.leg.state.vt.us/WorkGroups/EdOp/Education%20for%20Life%20and%20Work-%20National%20Academy%20of%20Sciences.pdf</a>
+			Developing transferable knowledge and skills in the 21st century. National Academies Press. doi:10.1002/pits.21641
 		</p>
 		<p class="hanging-indent">Sklad, M., Diekstra, R., RITTER, M. D., Ben, J., &amp; Gravesteijn, C. (2012).
 			Effectiveness of school‐based universal social, emotional, and behavioral programs: Do they enhance
@@ -143,6 +140,6 @@
 		<p class="hanging-indent">Walker, H. M., Nishioka, V. M., Zeller, R., Severson, H. H., &amp; Feil, E. G. (2000).
 			Causal factors and potential solutions for the persistent underidentification of students having emotional
 			or behavioral disorders in the context of schooling. Assessment for Effective Intervention, 26(1),
-			29-39.</p>
+			29-39. <a href="https://doi.org/10.1177/073724770002600105" target="_blank">https://doi.org/10.1177/073724770002600105</a></p>
 	</div>
 @endsection

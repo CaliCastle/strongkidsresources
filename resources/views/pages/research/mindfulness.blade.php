@@ -75,8 +75,7 @@
 				Beauchemin, J., Hutchins, T. L., & Patterson, F. (2008). Mindfulness meditation may lessen anxiety,
 				promote
 				social skills, and improve academic performance among adolescents with learning disabilities. <em>Complementary
-					Health Practice Review, 13</em>(1), 34-45. <a href="https://doi.org/10.1177/1533210107311624"
-				                                                  target="_blank">https://doi.org/10.1177/1533210107311624</a>
+					Health Practice Review, 13</em>(1), 34-45. https://doi.org/10.1177/1533210107311624
 			</p>
 			<br>
 			<p class="hanging-indent">
@@ -139,7 +138,7 @@
 			<br>
 			<p class="hanging-indent">
 				Zenner, C., Herrnleben-Kurz, S., & Walach, H. (2014). Mindfulness-based interventions in schools—a
-				systematic review and meta-analysis. <em>Frontiers in psychology, 5</em>. <a href="https://doi.org/10.3389/fpsyg.2014.00603" target="_blank">https://doi.org/10.3389/fpsyg.2014.00603</a>
+				systematic review and meta-analysis. <em>Frontiers in psychology, 5</em>. https://doi.org/10.3389/fpsyg.2014.00603
 			</p>
 		</div>
 	</div>
