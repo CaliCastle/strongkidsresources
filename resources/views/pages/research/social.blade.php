@@ -14,13 +14,13 @@
 			<p class="hanging-indent">
 				Bear, G.G., Whitcomb, S.A., Elias, M.J., & Blank, J. (2015). SEL and schoolwide positive behavioral
 				interventions and supports. In (eds.) J.A. Durlak, C.E. Domitrovich, R.P. Weissberg, & T.P. Gullotta.
-				<em>Handbook of Social and Emotional Learning: Research and Practice</em>. New York: Guilford Press.
+				<em>Handbook of Social and Emotional Learning: Research and Practice</em>. New York, NY: Guilford Press.
 			</p>
 			<br>
 			<p class="hanging-indent">
 				Bridgeland, J., Bruce, M., & Hariharan, A. (2013). <em>The missing piece: A national survey on how social
 					and emotional learning can empower children and transform schools</em>. Washington, DC: Civic Enterprises.
-				Retrieved from <a href="https://files.eric.ed.gov/fulltext/ED558068.pdf" target="_blank">https://files.eric.ed.gov/fulltext/ED558068.pdf</a>
+				Retrieved from https://files.eric.ed.gov/fulltext/ED558068.pdf
 			</p>
 			<br>
 			<p class="hanging-indent">
@@ -64,13 +64,13 @@
 			<br>
 			<p class="hanging-indent">
 				Durlak, J. A., Domitrovich, C. E., Weissberg, R. P., & T.P. Gullotta, T. P. (2015). <em>Handbook of Social
-					and Emotional Learning: Research and Practice</em>. New York: Guilford Press.
+					and Emotional Learning: Research and Practice</em>. New York, NY: Guilford Press.
 			</p>
 			<br>
 			<p class="hanging-indent">
 				Durlak, J. A., & DuPre, E. P. (2008). Implementation matters: A review of research on the influence of
-				implementation on program outcomes and the factors affecting implementation. <em>American journal of
-					community psychology, 41</em>(3-4), 327-350. doi 10.1007/s10464-008-9165-0
+				implementation on program outcomes and the factors affecting implementation. <em>American Journal of
+					Community Psychology, 41</em>(3-4), 327-350. doi 10.1007/s10464-008-9165-0
 			</p>
 			<br>
 			<p class="hanging-indent">
@@ -88,7 +88,7 @@
 			<p class="hanging-indent">
 				Durlak, J. A., Weissberg, R. P., Dymnicki, A. B., Taylor, R. D. & Schellinger, K. B. (2011). The Impact
 				of Enhancing Students' Social and Emotional Learning: A Meta-Analysis of School-Based Universal
-				Interventions. Child Development, 82: 405–432. doi: 10.1111/j.1467-8624.2010.01564.x.
+				Interventions. <em>Child Development, 82</em>: 405–432. doi: 10.1111/j.1467-8624.2010.01564.x.
 			</p>
 			<br>
 			<p class="hanging-indent">
@@ -116,7 +116,7 @@
 				Gayl, C. L. (2017). <em>How state planning for the every student succeeds act (ESSA) can promote student
 					academic, social, and emotional learning: An examination of five key strategies. A Brief from the
 					Collaborative for Academic, Social, and Emotional Learning (CASEL)</em>. Retrieved from
-				http://www.casel.org/wp-content/uploads/2017/04/ESSA-and-SEL-Five-Strategies-April-2017-041717.pdf
+				<a href="http://www.casel.org/wp-content/uploads/2017/04/ESSA-and-SEL-Five-Strategies-April-2017-041717.pdf" target="_blank">http://www.casel.org/wp-content/uploads/2017/04/ESSA-and-SEL-Five-Strategies-April-2017-041717.pdf</a>
 			</p>
 			<br>
 			<p class="hanging-indent">
@@ -144,19 +144,18 @@
 			<p class="hanging-indent">
 				Jennings, P. A., Frank, J. L., Snowberg, K. E., Coccia, M. A., & Greenberg, M. T. (2013). Improving
 				classroom learning environments by cultivating awareness and resilience in education. <em>School Psychology
-					Quarterly, 28</em>(4), 374. <a href="http://dx.doi.org/10.1037/spq0000035" target="_blank">http://dx.doi.org/10.1037/spq0000035</a>
+					Quarterly, 28</em>(4), 374. http://dx.doi.org/10.1037/spq0000035
 			</p>
 			<br>
 			<p class="hanging-indent">
 				Jennings, P. A., & Greenberg, M. T. (2009). The prosocial classroom: Teacher social and emotional
 				competence in relation to student and classroom outcomes. <em>Review of Educational Research, 79</em>(1),
-				491-525. <a href="https://doi.org/10.3102/0034654308325693" target="_blank">https://doi.org/10.3102/0034654308325693</a>
+				491-525. https://doi.org/10.3102/0034654308325693
 			</p>
 			<br>
 			<p class="hanging-indent">
 				Jones, S.M., Bouffard, S.M., & Weissbourd, R. (2013). Educators’ social and emotional skills vital to
-				learning. <em>Phi Delta Kappan, 94</em>, 62-65. <a href="https://doi.org/10.1177/003172171309400815"
-				                                          target="_blank">https://doi.org/10.1177/003172171309400815</a>
+				learning. <em>Phi Delta Kappan, 94</em>, 62-65. https://doi.org/10.1177/003172171309400815
 			</p>
 			<br>
 			<p class="hanging-indent">
@@ -170,8 +169,7 @@
 			<br>
 			<p class="hanging-indent">
 				McKevitt, B. C. (2012). School psychologists' knowledge and use of evidence-based, social-emotional
-				learning interventions. <em>Contemporary School Psychology 16</em>, 33-45. <a
-						href="https://doi.org/10.1007/BF03340974" target="_blank">https://doi.org/10.1007/BF03340974</a>
+				learning interventions. <em>Contemporary School Psychology 16</em>, 33-45. https://doi.org/10.1007/BF03340974
 			</p>
 			<br>
 			<p class="hanging-indent">
@@ -182,8 +180,7 @@
 			<p class="hanging-indent">
 				Merritt, E.G., Wanless, S. B., Rimm-Kaufman, S. E., Cameron, C., & Peugh, J.L. (2012). The contribution
 				of teachers’ emotional support to children’s social behaviors and self-regulatory skills in first grade.
-				<em>School Psychology Review, 41</em>, 141-159. <a href="http://naspjournals.org/loi/spsr?code=naps-site"
-				                                          target="_blank">http://naspjournals.org/loi/spsr?code=naps-site</a>
+				<em>School Psychology Review, 41</em>, 141-159. http://naspjournals.org/loi/spsr?code=naps-site
 			</p>
 			<br>
 			<p class="hanging-indent">
@@ -219,8 +216,7 @@
 			<br>
 			<p class="hanging-indent">
 				Prilleltensky, I., Neff, M., & Bessell, A. (2016). Teacher stress: What it is, why it's important, how
-				it can be alleviated. <em>Theory into Practice</em>, 1-14. <a
-						href="https://doi.org/10.1080/00405841.2016.1148986" target="_blank">https://doi.org/10.1080/00405841.2016.1148986</a>
+				it can be alleviated. <em>Theory into Practice</em>, 1-14. https://doi.org/10.1080/00405841.2016.1148986
 			</p>
 			<br>
 			<p class="hanging-indent">
@@ -233,7 +229,7 @@
 				Schonfeld, D. J., Adams, R. E., Fredstrom, B. K., Weissberg, R. P., Gilman, R., Voyce, C., ... &
 				Speese-Linehan, D. (2014). Cluster-randomized trial demonstrating impact on academic achievement of
 				elementary social-emotional learning. <em>School Psychology Quarterly, 30</em>(3), 406-420.
-				<a href="http://dx.doi.org/10.1037/spq0000099" target="_blank">http://dx.doi.org/10.1037/spq0000099</a>
+				http://dx.doi.org/10.1037/spq0000099
 			</p>
 			<br>
 			<p class="hanging-indent">
@@ -261,14 +257,14 @@
 			<br>
 			<p class="hanging-indent">
 				Weissberg, R. P. & Cascarino, J (2013). Academic learning + social-emotional learning = national
-				priority. <em>Phi Delta Kappan, 95</em>(2): 8-13.
+				priority. <em>Phi Delta Kappan, 95</em>(2): 8-13. Retrieved from
 				<a href="https://casel.org/wp-content/uploads/2016/06/weissberg-cascarino-phi-delta-kappan.pdf"
 				   target="_blank">https://casel.org/wp-content/uploads/2016/06/weissberg-cascarino-phi-delta-kappan.pdf</a>
 			</p>
 			<br>
 			<p class="hanging-indent">
-				J. E., Weissberg, R. P., Wang, M. C., & Walberg. H. J. (Eds.). (2004). <em>Building academic success on
-					social and emotional learning: What does the research say?</em> New York: Teachers College Press.
+				Weissberg, R. P., Wang, M. C., & Walberg. H. J. (Eds.). (2004). <em>Building academic success on
+					social and emotional learning: What does the research say?</em> New York, NY: Teachers College Press.
 			</p>
 			<br>
 			<hr>

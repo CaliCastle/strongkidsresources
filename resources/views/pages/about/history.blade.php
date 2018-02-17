@@ -114,11 +114,10 @@
 		</p>
 		<p class="hanging-indent">Greenberg, M. T., Domitrovich, C., &amp; Bumbarger, B. (2001). The prevention of
 			mental disorders in school-aged children: Current state of the field. Prevention and Treatment, 4(1), 1a.
-			Retrieved from <a href="http://www.apa.org/pubs/journals/pre/" target="_blank">http://www.apa.org/pubs/journals/pre/</a>
+			Retrieved from http://www.apa.org/pubs/journals/pre/
 		</p>
 		<p class="hanging-indent">Hoagwood, K., &amp; Erwin, H. D. (1997). Effectiveness of school-based mental health
-			services for children: A 10-year research review. Journal of Child and Family Studies, 6(4), 435-451. <a
-					href="https://doi.org/10.1023/A:1025045412689" target="_blank">https://doi.org/10.1023/A:1025045412689</a></p>
+			services for children: A 10-year research review. Journal of Child and Family Studies, 6(4), 435-451. https://doi.org/10.1023/A:1025045412689</p>
 		<p class="hanging-indent">Merrell, K. W. (2010). Linking prevention science and social and emotional learning:
 			The Oregon resilience project. Psychology in the Schools, 47(1), 55-70. doi: 10.1002/pits.20451
 		</p>
@@ -140,6 +139,6 @@
 		<p class="hanging-indent">Walker, H. M., Nishioka, V. M., Zeller, R., Severson, H. H., &amp; Feil, E. G. (2000).
 			Causal factors and potential solutions for the persistent underidentification of students having emotional
 			or behavioral disorders in the context of schooling. Assessment for Effective Intervention, 26(1),
-			29-39. <a href="https://doi.org/10.1177/073724770002600105" target="_blank">https://doi.org/10.1177/073724770002600105</a></p>
+			29-39. https://doi.org/10.1177/073724770002600105</p>
 	</div>
 @endsection

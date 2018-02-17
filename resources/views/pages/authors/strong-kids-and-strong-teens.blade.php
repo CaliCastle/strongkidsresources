@@ -95,7 +95,7 @@
 			</div>
 			<div class="author">
 				<div class="author__avatar">
-					<img src="/images/authors/Gueldner_022.jpg" alt="Gueldner">
+					<img src="/images/authors/2017_Gueldner_022.jpg" alt="Gueldner">
 				</div>
 				<div class="author__name">
 					<b>Barbara Gueldner, PhD, MSE, NCSP</b>
