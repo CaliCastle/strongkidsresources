@@ -11,7 +11,7 @@
 					Has this curriculum been used before?
 					<br>
 					<div class="faq-answer">Yes. And with successful outcomes. See <a
-								href="/Research/StrongKidsProgramResearch">Strong Kids Program Research</a> for more
+								href="/research/strong-kids">Strong Kids Program Research</a> for more
 						information.
 					</div>
 				</li>
