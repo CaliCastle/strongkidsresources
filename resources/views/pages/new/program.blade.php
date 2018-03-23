@@ -53,4 +53,36 @@
 			such as postsecondary planning.
 		</p>
 	</div>
+	<h2 class="heading-2 margin-v">
+		What’s New in Strong Start?
+	</h2>
+	<div class="container">
+		<em class="margin-v section-heading">
+			Our program is aligned to the latest CASEL social and emotional competencies
+		</em>
+		<p class="margin-v">
+			<a href="http://www.casel.org/">The Collaborative for Academic and Social Emotional Learning</a> (CASEL) is an organization that leads efforts
+			to promote social and emotional learning in research, policy, and practice. This organization advocates for
+			educational settings and community agencies to ensure that children are learning about five essential
+			personal competencies including self-awareness, self-management, social awareness,
+			relationship development, and responsible decision-making.
+		</p>
+		<p class="margin-v">
+			In the second edition of Strong Start—Grades K–2, we have aimed to explicitly align lessons to these
+			critical competencies. At the top of each lesson, the particular competencies addressed are listed.
+		</p>
+		<em class="margin-v section-heading">
+			Our content changes provide more opportunities for student growth
+		</em>
+		<p class="margin-v">We have shortened scripts for group leaders and incorporated more opportunities for students
+			to learn through active engagement. We also changed the order of particular lessons to foster increased
+			foundational knowledge of emotional knowledge and self-awareness.</p>
+		<p class="margin-v">We tweaked wording throughout the curriculum to highlight that it is okay and important to
+			experience all feelings, but some make us feel good and others make us feel not so good on the inside. We
+			have also introduced new terminology such as stuck (see Lesson 7) to describe situations when we may be
+			perseverating and having a hard time letting go of worries.</p>
+		<em class="margin-v section-heading">
+			Our new lesson components continue to follow a standardized format but offer increased teaching and learning opportunities
+		</em>
+	</div>
 @endsection

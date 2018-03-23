@@ -4,9 +4,8 @@
 
 @section('content')
 	<div class="container-large">
-		<p class="margin-v">
-			Assessments coming soon! Stay tuned for SEL-related assessments including the Emotion Knowledge Assessment
-			Tool (EKAT) and School SEL Capacity Assessment.
+		<p class="center margin-v">
+			Download &gt; <a href="/files/School SEL Capacity Assessment.pdf" download>School SEL Capacity Assessment</a>.
 		</p>
 	</div>
 @stop
