@@ -3,6 +3,12 @@
 @section('content')
 	<div class="container">
 		<div class="center margin-v">
+			<em class="section-heading" style="line-height: 2;">Are you using any of the Strong Kids programs?<br> Please <a
+						href="/contact">contact us</a>. We would like to hear from you!</em>
+		</div>
+	</div>
+	<div class="container">
+		<div class="center margin-v">
 			<img src="/images/home-books.png" alt="Books" style="max-width: 550px;">
 		</div>
 		
