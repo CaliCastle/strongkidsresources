@@ -55,11 +55,13 @@
 			<div class="carousel" data-width="100%" data-ratio="2/1" data-fit="cover" data-loop="true" data-autoplay="true" data-trackpad="true" data-keyboard="true">
 				<img src="/images/banners/shutterstock_44645314.jpg" alt="Background Image">
 				<img src="/images/banners/shutterstock_309241985.jpg" alt="Background Image">
-				<img src="/images/banners/shutterstock_309242000.jpg" alt="Background Image">
 				<img src="/images/banners/shutterstock_414397345.jpg" alt="Background Image">
 				<img src="/images/banners/shutterstock_447240079.jpg" alt="Background Image">
 				<img src="/images/anna-samoylova-535880.jpg" alt="Background Image">
 				<img src="/images/nathaniel-tetteh-300252.jpg" alt="Background Image">
+				<img src="/images/banners/Teens at lockers.shutterstock_736962454.jpg" alt="Background Image">
+				<img src="/images/banners/Teens in classroom.shutterstock_198943502.jpg" alt="Background Image">
+				<img src="/images/banners/Youth teens.Private school.shutterstock_654250039.jpg" alt="Background Image">
 			</div>
 			<div class="logo bounceInUp">
 				<img src="/images/Logo.png" alt="Logo">
